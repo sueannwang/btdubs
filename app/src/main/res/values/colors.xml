@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <!-- FAB Colours -->
+    <color name="FABNormal">#ff8000</color>
+    <color name="FABRipple">#f0ab62</color>
+
+    <!-- Drawable colors -->
+    <color name="itemSelected">#EEEEEE</color>
+    <color name="bottomBorder">#B0BEC5</color>
+
+    <!-- Common colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>
